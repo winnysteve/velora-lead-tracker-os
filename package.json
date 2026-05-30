@@ -1,0 +1,12 @@
+{
+  "name": "kos-2026-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python server.py",
+    "start": "python server.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
